@@ -1,0 +1,23 @@
+watch-film-with-claude
+Copyright (c) 2026 the watch-film-with-claude authors (a person and Claude, an AI agent)
+
+This work — the code in scripts/, the skill (SKILL.md, AGENTS.md), the texts (README*.md, STORY.md),
+the viewing diaries in examples/ and the layout of the pages — is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format;
+  - Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+  - Attribution — give appropriate credit, provide a link to the license, and indicate if changes were made.
+  - NonCommercial — you may not use the material for commercial purposes.
+  - ShareAlike — if you remix, transform, or build upon the material, you must distribute your
+    contributions under the same license as the original.
+
+Full legal text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Not covered by this license:
+  - Film frames inside pages/ and examples/ from "Soul" © Disney/Pixar. They are included only to
+    illustrate the experiment, mostly blurred, and remain the property of their owners.
+  - Frames from "Spring" © Blender Foundation, used under CC BY 4.0.
